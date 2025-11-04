@@ -1,5 +1,4 @@
-## 🏆 Project Title  
-**Fine-Tuned Sentence Transformer for Multilingual Job Title Matching**
+##  **Fine-Tuned Sentence Transformer for Multilingual Job Title Matching**
 
 ---
 
@@ -45,14 +44,14 @@ Multilingual Job Title Matching/
 
 ## 📘 Workflow Summary
 
-### 1️⃣ Generate Similar Titles
-**Notebook:** `1_create_esco_similar_titles.ipynb`  
+### 1. Generate Similar Titles
+**Notebook:** [`1_create_esco_similar_titles.ipynb`](notebooks/1_create_esco_similar_titles.ipynb)
 - Reads multilingual ESCO `occupation_XX.csv` files.  
 - Extracts related job titles using preferred & alternate labels.  
 - Creates `similar_title_sets_XX.csv` for English, Spanish, and German.  
   
-### 2️⃣ Train and Evaluate Model
-**Notebook:** `2_model_training_and_evaluation.ipynb`  
+### 2. Train and Evaluate Model
+**Notebook:** [`2_model_training_and_evaluation.ipynb`](notebooks/2_model_training_and_evaluation.ipynb)
 - Loads processed ESCO outputs (`similar_title_sets_XX.csv`) for all languages and **combines** them to create a multilingual pool of similar job titles.  
 - Generates **all possible job-title pairs** from those similar-title sets (positive pairs).  
 - Converts the pairs into the **SentenceTransformer training format** for model fine-tuning.  
@@ -81,4 +80,4 @@ This repository accompanies our CLEF 2025 Working Notes submission:
 
 **Title:** Fine-Tuned Sentence Transformer for Multilingual Job Title Matching  
 **Event:** CLEF 2025 – TalentCLEF Task A  
-**Paper:** [`paper/Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf`](paper/Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf)
+**Paper:** [`Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf`](paper/Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf)
