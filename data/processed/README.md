@@ -4,9 +4,12 @@ This directory contains **language-specific processed datasets** derived from th
 Each file includes **sets of similar job titles** generated for use in the multilingual job title matching task.
 
 ---
+
 ## 🗂️ Folder Structure
+
 ```bash
-data/processed/
+data/
+└── processed/
     └── esco_similar_titles/
         ├── english/
         │   └── similar_title_sets_english.csv
@@ -14,7 +17,7 @@ data/processed/
         │   └── similar_title_sets_spanish.csv
         └── german/
             └── similar_title_sets_german.csv
-
+```
 ---
 
 ## 📘 File Descriptions

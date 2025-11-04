@@ -40,7 +40,7 @@ Multilingual Job Title Matching/
 │  └── Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf
 │
 └── README.md # ← (This file)
-
+```
 ---
 
 ## 📘 Workflow Summary
