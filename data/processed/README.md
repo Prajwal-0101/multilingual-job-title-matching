@@ -5,6 +5,7 @@ Each file includes **sets of similar job titles** generated for use in the multi
 
 ---
 ## 🗂️ Folder Structure
+```bash
 data/processed/
     └── esco_similar_titles/
         ├── english/

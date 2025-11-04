@@ -19,7 +19,7 @@ Model performance is evaluated using standard retrieval metrics — **Mean Avera
 ---
 
 ## 🗂️ Project Structure
-
+```bash
 Multilingual Job Title Matching/
 │
 ├── data/

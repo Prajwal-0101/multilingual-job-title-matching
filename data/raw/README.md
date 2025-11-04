@@ -5,6 +5,7 @@ This directory contains two main datasets used in the **Multilingual Job Title M
 2. **ESCO Dataset (version 1.2.0)** – a supplementary occupational taxonomy dataset used for generating similar job title pairs.
 
 ## 📂 Folder Structure
+```bash
 data/raw/
 │
 ├── talent_clef_2025_task_a/
