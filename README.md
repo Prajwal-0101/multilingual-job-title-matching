@@ -28,15 +28,15 @@ Multilingual Job Title Matching/
 │ │ └── README.md # Description of raw datasets
 │ │
 │ └── processed/
-│ ├── esco_similar_titles/ # Generated ESCO similar-title sets
-│ └── README.md # Details on processed data
+│   ├── esco_similar_titles/ # Generated ESCO similar-title sets
+│   └── README.md # Details on processed data
 │
 ├── notebooks/
 │ ├── 1_create_esco_similar_titles.ipynb  # Build similar title sets from ESCO data
 │ └── 2_model_training_and_evaluation.ipynb  # Train & evaluate SentenceTransformer
 │
 ├── paper/
-│  └── Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf
+│ └── Fine_Tuned_Sentence_Transformer_for_Multilingual_Job_Title_Matching_CLEF2025.pdf
 │
 └── README.md # ← (This file)
 ```

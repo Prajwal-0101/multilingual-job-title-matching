@@ -24,14 +24,14 @@ data/raw/
 │   │   │   ├── corpus_elements
 │   │   │   └── qrels.tsv
 │   │   ├── spanish/
-│   │   ├── german/
+│   │   └── german/
 │   │
 │   └── test/
 │       ├── english/
 │       │   ├── queries
 │       │   └── corpus_elements
 │       ├── spanish/
-│       ├── german/
+│       └── german/
 │
 └── esco_dataset_version_1.2.0/
     ├── english/

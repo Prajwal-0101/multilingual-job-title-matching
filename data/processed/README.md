@@ -22,16 +22,16 @@ data/
 
 ## 📘 File Descriptions
 
-### [`similar_title_sets_english.csv`]
-- Derived from: [`data/raw/esco_dataset_version_1.2.0/english/occupation_en.csv`]
+### [`similar_title_sets_english.csv`](esco_similar_titles/english/similar_title_sets_english.csv)
+- Derived from: [`data/raw/esco_dataset_version_1.2.0/english/occupation_en.csv`](../raw/esco_dataset_version_1.2.0/english/occupation_en.csv)
 - Contains groups of **semantically similar English job titles**.
 
-### [`similar_title_sets_spanish.csv`]
-- Derived from: [`data/raw/esco_dataset_version_1.2.0/spanish/occupation_es.csv`]
+### [`similar_title_sets_spanish.csv`](esco_similar_titles/spanish/similar_title_sets_spanish.csv)
+- Derived from: [`data/raw/esco_dataset_version_1.2.0/spanish/occupation_es.csv`](../raw/esco_dataset_version_1.2.0/spanish/occupation_es.csv)
 - Contains groups of **semantically similar Spanish job titles**.
 
-### [`similar_title_sets_german.csv`]
-- Derived from: [`data/raw/esco_dataset_version_1.2.0/german/occupation_de.csv`]
+### [`similar_title_sets_german.csv`](esco_similar_titles/german/similar_title_sets_german.csv)
+- Derived from: [`data/raw/esco_dataset_version_1.2.0/german/occupation_de.csv`](../raw/esco_dataset_version_1.2.0/german/occupation_de.csv)
 - Contains groups of **semantically similar German job titles**.
 
 ---
