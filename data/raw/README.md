@@ -44,7 +44,7 @@ data/raw/
 
 ## 📘 Dataset Descriptions
 
-### **1️⃣ TalentCLEF 2025 Task A**
+### **1. TalentCLEF 2025 Task A**
 The **TalentCLEF 2025 Task A** dataset provides multilingual job title data for training, validation and testing.
 
 It includes three languages: **English**, **Spanish**,and **German**.
@@ -72,7 +72,7 @@ Used for generating TREC-format run files during evaluation.
 
 
 ---
-### **2️⃣ ESCO Dataset (Version 1.2.0)**
+### **2. ESCO Dataset (Version 1.2.0)**
 This dataset provides multilingual occupational taxonomy data from the **European Skills, Competences, Qualifications and Occupations (ESCO)** database.
 
 **Available Languages:**

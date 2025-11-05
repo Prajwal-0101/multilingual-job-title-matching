@@ -38,7 +38,7 @@ data/
 
 ## 🧩 Generation Details
 All processed files were generated using the notebook:
-[`1_create_esco_similar_titles.ipynb`](notebooks/1_create_esco_similar_titles.ipynb)
+[`1_create_esco_similar_titles.ipynb`](../../notebooks/1_create_esco_similar_titles.ipynb)
 
 This notebook:
 - Reads the **`occupation_XX.csv`** file for each language.
